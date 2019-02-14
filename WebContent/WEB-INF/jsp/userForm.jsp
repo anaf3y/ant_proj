@@ -6,8 +6,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Registration Page SATHYA TECH DEVOPS</title>
-<title>Hello DEVOPS</title>
-<title>Good Day </title>
+<title>Hello DEVOPS! I'm Nafey </title>
+<title>Good Day fro Jenkins </title>
 
 </head>
 <body>
